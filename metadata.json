@@ -1,0 +1,6 @@
+{
+  "name": "EProcureAGM",
+  "description": "Uma plataforma inteligente para registrar, buscar e devolver documentos perdidos de forma rápida, segura e gratuita.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
